@@ -27,21 +27,23 @@ dot()	None	Leave the dot at the current position<br>
 stamp()	None	Leaves an impression of a turtle shape at the current location<br>
 shape()	shapename	Should be ‘arrow’, ‘classic’, ‘turtle’ or ‘circle’<br>
 </pre>
-Plotting using Turtle
+<hr>
+<h3>Plotting using Turtle</h3>
+<br>
+<p>To make use of the turtle methods and functionalities, we need to import turtle.”turtle” comes packed with the standard Python package and need not be installed externally. The roadmap for executing a turtle program follows 4 steps:  
+</p><br>
+1) Import the turtle module<br>
+2) Create a turtle to control.<br>
+3) Draw around using the turtle methods.<br>
+4) Run turtle.done().<br>
+<h3>Example></h3>
+<br>
 
-To make use of the turtle methods and functionalities, we need to import turtle.”turtle” comes packed with the standard Python package and need not be installed externally. The roadmap for executing a turtle program follows 4 steps:  
-
-Import the turtle module
-Create a turtle to control.
-Draw around using the turtle methods.
-Run turtle.done().
-So as stated above, before we can use turtle, we need to import it. We import it as : 
-
-from turtle import *
-# or
-import turtle
-After importing the turtle library and making all the turtle functionalities available to us, we need to create a new drawing board(window) and a turtle. Let’s call the window as wn and the turtle as skk. So we code as: 
-
+from turtle import *<br>
+# or<br>
+import turtle<br>
+<p>After importing the turtle library and making all the turtle functionalities available to us, we need to create a new drawing board(window) and a turtle. Let’s call the window as wn and the turtle as skk. So we code as: <p><br>
+<pre>
 wn = turtle.Screen()
 wn.bgcolor("light green")
 wn.title("Turtle")
@@ -52,4 +54,5 @@ skk.forward(100)
 We have moved skk 100 pixels forward, Awesome! Now we complete the program with the done() function and We’re done! 
 
 turtle.done()
-So, we have created a program that draws a line 100 pixels long. We can draw various shapes and fill different colors using turtle methods. There’s plethora of functions and programs to be coded using the turtle library in python. Let’s learn to draw some of the basic shapes. 
+</pre>
+<p>So, we have created a program that draws a line 100 pixels long. We can draw various shapes and fill different colors using turtle methods. There’s plethora of functions and programs to be coded using the turtle library in python. </p>

@@ -1,8 +1,5 @@
 # Python-project
 <h1>Turtle Programming in Python</h1>
-<img scr="(https://user-images.githubusercontent.com/92047366/166113716-bdaa9739-33a8-478b-972b-4ae55038b9b5.jpg)">
-
-
 <hr>
 <p>“Turtle” is a Python feature like a drawing board, which lets us command a turtle to draw all over it! We can use functions like turtle.forward(…) and turtle.right(…) which can move the turtle around. Commonly used turtle methods are :</p>
  <br>

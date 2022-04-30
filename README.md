@@ -36,11 +36,11 @@ shape()	shapename	Should be ‘arrow’, ‘classic’, ‘turtle’ or ‘circl
 2) Create a turtle to control.<br>
 3) Draw around using the turtle methods.<br>
 4) Run turtle.done().<br>
+<hr>
 <h3>Example></h3>
 <br>
 
 from turtle import *<br>
-# or<br>
 import turtle<br>
 <p>After importing the turtle library and making all the turtle functionalities available to us, we need to create a new drawing board(window) and a turtle. Let’s call the window as wn and the turtle as skk. So we code as: <p><br>
 <pre>

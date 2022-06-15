@@ -56,3 +56,5 @@ We have moved skk 100 pixels forward, Awesome! Now we complete the program with 
 turtle.done()
 </pre>
 <p>So, we have created a program that draws a line 100 pixels long. We can draw various shapes and fill different colors using turtle methods. There’s plethora of functions and programs to be coded using the turtle library in python. </p>
+<hr>
+<h2>OUTPUTS</h2>

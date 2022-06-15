@@ -58,5 +58,8 @@ turtle.done()
 <p>So, we have created a program that draws a line 100 pixels long. We can draw various shapes and fill different colors using turtle methods. There’s plethora of functions and programs to be coded using the turtle library in python. </p>
 <hr>
 <h2>OUTPUTS</h2>
+
 ![Screenshot (297)](https://user-images.githubusercontent.com/92047366/173811995-19625295-9e13-4482-92cc-c68ba12b4ad3.png)
+
+![Screenshot (298)](https://user-images.githubusercontent.com/92047366/173812086-edcb1d52-3212-4668-8878-c280bff78342.png)
 

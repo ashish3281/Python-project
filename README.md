@@ -63,3 +63,4 @@ turtle.done()
 
 ![Screenshot (298)](https://user-images.githubusercontent.com/92047366/173812086-edcb1d52-3212-4668-8878-c280bff78342.png)
 
+![Screenshot (300)](https://user-images.githubusercontent.com/92047366/173812227-70b74eff-f6d0-4f16-828a-d1d3e2cf908b.png)
